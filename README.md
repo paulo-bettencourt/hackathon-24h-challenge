@@ -26,7 +26,7 @@ Hackathon project made in 24hrs in a BootCamp. <Academia de codigo_>
 - For persistence it uses a MySql database with Hibernate and Jpa for easy many-to-many relationships, optimistic locking etc.
 - Views are in Html, Css and Bootstrap
 
-### Group:
+## Group:
 
 Arthur Britto<br>
 Rodrigo Dinis<br>
